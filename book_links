@@ -2,3 +2,14 @@ Practical Statistics for Data Scientists, 2nd Edition. Link: https://learning.or
 Storytelling with Data: A Data Visualization Guide for Business Professionals. Link: https://learning.oreilly.com/library/view/storytelling-with-data/9781119002253/
 Interactive Data VisuVisualization for the Web, 2nd Edition. Link: https://learning.oreilly.com/library/view/interactive-data-visualization/9781491921296/
 SQL all-in-one for dummies. Link: https://learning.oreilly.com/library/view/sql-all-in-one-for/9781394242290/?sso_link=yes&sso_link_from=griffith
+
+---------//-----------
+data types
+https://pandas.pydata.org/docs/user_guide/basics.html#dtypes
+https://www.r-tutor.com/r-introduction/basic-data-types
+https://www.w3schools.com/sql/sql_datatypes.asp
+
+---------//-----------
+Documentation on data frames
+https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html
+https://stat.ethz.ch/R-manual/R-devel/library/base/html/data.frame.html
